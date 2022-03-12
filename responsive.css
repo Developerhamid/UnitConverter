@@ -1,0 +1,20 @@
+@media screen and (max-width:1023px){
+    .innerContainer {
+        width: 75vw;
+        height: 60vh;
+      }
+
+    .inputForm {
+        display: flex;
+        flex-direction: column;
+      }
+
+      #numValue {
+        width: 40vw;
+      }
+      
+      #units {
+        width: 40vw;
+        margin: 20px 0;
+      }
+}
